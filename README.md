@@ -39,3 +39,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aryan-kadam-556895379)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryankadam2201@gmail.com)
 
+## Connect with me
+- www.linkedin.com/in/aryan-kadam-556895379
+- aryankadam2201@gmail.com
+
