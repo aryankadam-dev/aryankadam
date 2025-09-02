@@ -3,7 +3,7 @@
 🚀 **Computer Science Student | Python Enthusiast | Open Source Explorer**  
 
 💡 Always learning, building, and sharing what I know.  
-🔥 Current goal → Mastering **Python**, **GitHub**, and becoming a **Software Engineering Pro**.  
+🔥 Current goal → Mastering **Python**, **GitHub**, and becoming a **Software Engineer**.  
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 
 ## 🌱 Current Focus
-- Learning **Python & DSA** deeply  
+- Learning **Python & AI/ML** deeply  
 - Mastering **Git + GitHub workflows**  
 - Building small projects → leveling up daily  
 
